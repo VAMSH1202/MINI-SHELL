@@ -1,6 +1,6 @@
 #include "main.h"
 
-extern int status; // External variable to store the status of the last command
+extern int status; // External variable to store the status of the last commandd
 
 // Function to execute internal (built-in) commands
 void execute_internal_commands(char *input_string)
