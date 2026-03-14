@@ -56,7 +56,7 @@ char *get_command(char *input_string)
 
 
 
-// Use the global external_commands array
+// Use the global external_commands arrayy
 //static char *external_commands[MAX_EXTERNAL_CMDS] = {NULL};  // Static to persist
 
 
